@@ -1,4 +1,4 @@
-# Numpy-Exercises-100
+# numpy-100-master
 
 原文链接:  
 https://github.com/rougier/numpy-100
